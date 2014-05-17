@@ -1,0 +1,14 @@
+{
+  "name": "args.js",
+  "repo": "matthiasg/args.js",
+  "description": "Clone of autographer/args.js ..",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "Args.js",
+  "scripts": [
+    "Args.js"
+  ]
+}
